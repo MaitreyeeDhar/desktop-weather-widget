@@ -22,6 +22,7 @@ pip install requests
 
 ### Step 2 — Run the widget
 python weather_widget.py
+### OR — Simply double-click run.bat to launch without terminal! ✅
 
 ## ✨ Features
 - Stays behind all apps (true desktop widget)
